@@ -1,7 +1,7 @@
 # Tokopedia-Scraper
 
 ## Overview
-A program to retrieve product data on marketplace websites using Selenium. The website to be scraped is a dynamic website and generally cannot be extracted without a JavaScript-enabled selector. Therefore, Selenium is a suitable choice to extract a dynamic data on website.
+A program to retrieve product data on marketplace websites based on keywords using Selenium. The website to be scraped is a dynamic website and generally cannot be extracted without a JavaScript-enabled selector. Therefore, Selenium is a suitable choice to extract a dynamic data on website.
 
 URL: https://www.tokopedia.com/
 
@@ -24,5 +24,18 @@ pip3 install selenium
 pip install tqdm
 pip3 install tqdm
 ```
+
+## Disclaimer 
+This code is intended for educational purposes. Please respect privacy, copyright and code and data terms of use. Read more about Tokopedia [here](https://www.tokopedia.com/terms?lang=en).
+
+## Rules
+1. Do not retrieve unnecessary data
+2. Do not use the collected data for illegal purposes
+3. Maintain the confidentiality of the data collected
+4. Cocumenting data scraping times
+
+## Website Version
+Last scraping date: 9 February 2023
+
 
  
