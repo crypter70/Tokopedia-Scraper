@@ -5,8 +5,11 @@ A program to retrieve product data on marketplace websites using Selenium. The w
 
 URL: https://www.tokopedia.com/
 
+Website: 
+<img width="1552" alt="Screenshot 2023-02-09 at 21 16 37" src="https://user-images.githubusercontent.com/74947224/217837406-5ca9f628-b300-413d-b2d3-5b803f737b49.png">
+
 ## Official Docs
-Selenium Documentation
+Selenium Documentation: 
 https://www.selenium.dev/documentation/
 
 ## Installation
@@ -21,7 +24,5 @@ pip3 install selenium
 pip install tqdm
 pip3 install tqdm
 ```
-
-## 
 
  
