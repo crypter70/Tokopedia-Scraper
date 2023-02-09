@@ -8,6 +8,10 @@ URL: https://www.tokopedia.com/
 Website: 
 <img width="1552" alt="Screenshot 2023-02-09 at 21 16 37" src="https://user-images.githubusercontent.com/74947224/217837406-5ca9f628-b300-413d-b2d3-5b803f737b49.png">
 
+## Prerequiste
+- Python 3
+- WebDriver
+
 ## Official Docs
 Selenium Documentation: 
 https://www.selenium.dev/documentation/
@@ -32,7 +36,7 @@ This code is intended for educational purposes. Please respect privacy, copyrigh
 1. Do not retrieve unnecessary data
 2. Do not use the collected data for illegal purposes
 3. Maintain the confidentiality of the data collected
-4. Cocumenting data scraping times
+4. Documenting data scraping times
 
 ## Website Version
 Last scraping date: 9 February 2023
