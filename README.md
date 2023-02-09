@@ -8,7 +8,7 @@ URL: https://www.tokopedia.com/
 Website: 
 <img width="1552" alt="Screenshot 2023-02-09 at 21 49 34" src="https://user-images.githubusercontent.com/74947224/217846247-24a8f8d7-bbb4-4cb1-bccc-26e891d74bfd.png">
 
-## Prerequiste
+## Prerequisite
 - Python 3
 - WebDriver
 
