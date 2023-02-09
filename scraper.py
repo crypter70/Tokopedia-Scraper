@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait as wait         # wait t
 import pandas as pd                                                     # pd to export data
 from tqdm import tqdm                                                   # tqdm to visualize looping process
 from selenium.webdriver.common.keys import Keys                         # Keys as procedures using the keyboards
+import datetime
 
 
 # initialize driver Chrome to run simulation and get URL
@@ -125,9 +126,11 @@ while stop <= pages:
     
 df = pd.DataFrame(product_data)
 
+now = datetime.datetime.today().strftime('%d-%m-%Y')
+
 # export data to csv and json
-df.to_csv('data.csv', index=False)
-df.to_json('data.json', orient='records')
+df.to_csv(f'sample_data_{now}.csv', index=False)
+df.to_json(f'sample_data_{now}.json', orient='records')
 
 
 
