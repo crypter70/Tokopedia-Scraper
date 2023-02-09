@@ -6,7 +6,7 @@ A program to retrieve product data on marketplace websites based on keywords usi
 URL: https://www.tokopedia.com/
 
 Website: 
-<img width="1552" alt="Screenshot 2023-02-09 at 21 16 37" src="https://user-images.githubusercontent.com/74947224/217837406-5ca9f628-b300-413d-b2d3-5b803f737b49.png">
+<img width="1552" alt="Screenshot 2023-02-09 at 21 49 34" src="https://user-images.githubusercontent.com/74947224/217846247-24a8f8d7-bbb4-4cb1-bccc-26e891d74bfd.png">
 
 ## Prerequiste
 - Python 3
