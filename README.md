@@ -1,7 +1,7 @@
 # Tokopedia-Scraper
 
 ## Overview
-A program to retrieve product data on the Tokopedia marketplace website based on keywords using Selenium. The website to be scraped is a dynamic website and generally cannot be extracted without a JavaScript-enabled selector. Therefore, Selenium is a suitable choice to extract a dynamic data on website.
+The program aimed to extract product data from the Tokopedia marketplace website based on specified keywords using web scraping techniques. Selenium with JavaScript-enabled selectors was utilized to extract the data due to the dynamic elements on the website. The extracted data included product name, price, location, rating, number of items sold, and details link, which were essential for data analysis and market research. The data was saved in both CSV and JSON formats for further processing and analysis.
 
 URL: https://www.tokopedia.com/
 
